@@ -4,6 +4,6 @@ Programmiersprachen? Arbeiten alle nach demselben Muster. Sie bedienen sich best
 
 In Deiner Fortbildung befasst Du Dich mit Datenstrukturen, dem Algorithmenentwurf und grundlegenden Algorithmen. Noch nicht genug (Daten-)Input? Dann lerne alles über den Aufbau von XML-Dokumenten und dem Datenaustauschformat JSON. Die Grundsätze von Programmiersprachen, wie Programmierparadigmen, Syntax, Semantik und Variablen, lernst Du ebenfalls kennen. Danach geht’s weiter mit einem Überblick zu den wichtigsten Programmiersprachen. Darunter die C-Familie, Java, Matlab, COBOL, PHP und HTML. Nach erfolgreichem Abschluss Deiner Algorithmen, Datenstrukturen und Programmiersprachen Weiterbildung hast Du den perfekten Durchblick für ein systematisches Vorgehen bei der Programmierung. 
 
-Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server.
+Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server (2023).
 
 Person responsible: Dr. A. Schelle.
