@@ -1,4 +1,4 @@
-# Von Robyn Eismann
+# Bearbeitet durch Robyn Eismann
 
 number = 2                          # 2 ist 1. Primzahl
 primeCounter = 1                    # counter start bei 1 wegen ersten Primzahl 2
