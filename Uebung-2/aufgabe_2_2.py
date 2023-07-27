@@ -1,3 +1,5 @@
+# Bearbeitet durch Robyn Eismann
+
 import random
 
 def shift_left (queue):
