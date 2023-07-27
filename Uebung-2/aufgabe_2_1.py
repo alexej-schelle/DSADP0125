@@ -2,19 +2,11 @@
 
 import random
 
-# Erstellen einer leeren Liste
-randomStack = []
-print(randomStack)
+stackSize = 25
+stack = []
 
-# Fügt der Liste iterativ 25 zufällige Ganzzahlen hinzu
-for i in range(0, 25):
-    randomStack.append(random.randint(0, 100))
-    print(randomStack)
+for i in range(0,stackSize):
+    randomNumber = random.randint(0,100)
+    stack.append(randomNumber)
 
-# Entfernt iterativ die Elemente aus der Liste, beginnend beim zuletzt hinzugefügten Element (LIFO)
-for i in range(0, 25):
-    randomStack.pop()
-    print(randomStack)
-
-# Die Warscheinlichkeit dass genau diese eine Liste aus 25 zufälligen Werten zwischen 0 und 100 auftritt, beträgt 1/(101^25).
-# Das ist eine extrem große Zahl und damit eine sehr geringe Warscheinlichkeit.
+print(stack)
