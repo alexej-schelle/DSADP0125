@@ -1,4 +1,4 @@
-# Bearbeitet durch Julius Franke
+# Bearbeitet durch Erik Kupfer
 
 import random
 
