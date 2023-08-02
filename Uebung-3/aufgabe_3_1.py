@@ -1,3 +1,5 @@
+# Bearbeitet durch Julius Franke
+
 # Verifizieren Sie numerisch für Gauß-verteilte Variablen in Python, 
 # dass die Summe von Gauß-verteilten Variablen wieder Gauß-verteilt ist. 
 # Wie nennt man diesen Zusammenhang in der Mathematik?
