@@ -1,3 +1,5 @@
+# Bearbeitet durch Eric Böwer
+
 import random
 
 # Dieses Programm Simuliert in zwei Fällen das Monty-Hall-Problem
