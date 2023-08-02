@@ -1,4 +1,4 @@
-# Bearbeitet durch Julius Franke
+# Bearbeitet durch Robyn Eismann
 
 # Verifizieren Sie numerisch für Gauß-verteilte Variablen in Python, 
 # dass die Summe von Gauß-verteilten Variablen wieder Gauß-verteilt ist. 
