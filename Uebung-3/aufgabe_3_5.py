@@ -54,7 +54,7 @@ for n in range(0, sample_size):
         numbers = {}
         numbers = {random_number[0], random_number[1], random_number[2], random_number[3], random_number[4], random_number[5], random_number[6]}
 
-        for n in range(0, 6): # Wähle die Anzahl der Zahlen in der Lottrie
+        for n in range(0, 6): # Wähle die Anzahl der Zahlen in der Lotterie
             
             rnd = random.randint(1, 49)
             if (rnd not in random_number) : random_number[n] = rnd
