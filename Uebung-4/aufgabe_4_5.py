@@ -1,6 +1,7 @@
 # Bearbeitet durch Julius Franke
 
 import random
+import matplotlib.pyplot as plt
 
 # Nimmt einen String, Schlüssel und Zeichensatz entgegen und gibt einen verschlüsselten String zurück
 def EncryptString(string, key, charset):
@@ -38,6 +39,22 @@ key = random.randint(0, 1000)
 
 # Der verschlüsselte String
 encryptedString = EncryptString(string, key, charset)
+
+# Zählen der Häufigkeit jedes Zeichens im verschlüsselten String
+char_frequencies = {}
+for char in encryptedString:
+    if char in charset:
+        if char in char_frequencies:
+            char_frequencies[char] += 1
+        else:
+            char_frequencies[char] = 1
+
+# Zeichnen des Histogramms
+plt.bar(char_frequencies.keys(), char_frequencies.values())
+plt.xlabel('Zeichen')
+plt.ylabel('Häufigkeit')
+plt.title('Histogramm des verschlüsselten Strings')
+plt.show()
 
 # Der entschlüsselte String
 decryptedString = DecryptString(encryptedString, key, charset)
