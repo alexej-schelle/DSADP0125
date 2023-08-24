@@ -22,6 +22,6 @@ For natural persons, IDR for Web Spiders developed by krealix.de is free. For en
 
 Also, further insights and proposals on how to monetize your business data in the www are provided.
 	
-Copyright 2021, KREALIX.DE. 
+Copyright 2023, KREALIX.DE. 
 	
 Person responsible : Dr. A. Schelle.
