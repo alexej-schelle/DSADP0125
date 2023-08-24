@@ -1,3 +1,5 @@
+# Bearbeitet durch Dr. Alexej Schelle
+
 <meta name = "title" content = "Your Company Name">  
 <meta name = "keywords" content = "..."/>
 <meta name = "description" content = "..."/>
