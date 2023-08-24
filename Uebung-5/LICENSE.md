@@ -1,6 +1,8 @@
+# Bearbeitet durch Dr. Alexej Schelle
+
 MIT License
  
-Copyright (c) 2017, Dr. A. Schelle, Sudetenstr. 76, 87600 Kaufbeuren (Neugablonz)
+Copyright (c) 2023, Dr. A. Schelle, Bachschmidstr. 4, 87600 Kaufbeuren
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
