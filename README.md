@@ -6,4 +6,4 @@ In Deiner Fortbildung befasst Du Dich mit Datenstrukturen, dem Algorithmenentwur
 
 Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server (2023).
 
-Person responsible: Dr. A. Schelle (Iu Internationale Hochschule, http://www.iu.org).
+Person responsible: Dr. A. Schelle (IU Internationale Hochschule, http://www.iu.org).
