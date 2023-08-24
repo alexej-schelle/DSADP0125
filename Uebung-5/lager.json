@@ -1,0 +1,111 @@
+# Bearbeitet durch Eric Böwer
+
+{
+    "lager": [
+    {
+        "artikelnummer": "001",
+        "bezeichnung": "T-Shirt",
+        "farbe": "Blau",
+        "preis": 19.99,
+        "bestand": 50
+    },
+    {
+        "artikelnummer": "002",
+        "bezeichnung": "Hose",
+        "farbe": "Schwarz",
+        "preis": 34.95,
+        "bestand": 30
+    },
+    {
+        "artikelnummer": "003",
+        "bezeichnung": "Schuhe",
+        "farbe": "Weiß",
+        "preis": 59.99,
+        "bestand": 20
+    },
+    {
+        "artikelnummer": "004",
+        "bezeichnung": "Jacket",
+        "farbe": "Grau",
+        "preis": 79.99,
+        "bestand": 15
+    },
+    {
+        "artikelnummer": "005",
+        "bezeichnung": "Jeans",
+        "farbe": "Blau",
+        "preis": 39.95,
+        "bestand": 40
+    },
+    {
+        "artikelnummer": "006",
+        "bezeichnung": "Socken",
+        "farbe": "Weiß",
+        "preis": 5.99,
+        "bestand": 100
+    },
+    {
+        "artikelnummer": "007",
+        "bezeichnung": "Mantel",
+        "farbe": "Schwarz",
+        "preis": 89.99,
+        "bestand": 10
+    },
+    {
+        "artikelnummer": "008",
+        "bezeichnung": "Shorts",
+        "farbe": "Grün",
+        "preis": 24.99,
+        "bestand": 25
+    },
+    {
+        "artikelnummer": "009",
+        "bezeichnung": "Stiefel",
+        "farbe": "Braun",
+        "preis": 69.95,
+        "bestand": 18
+    },
+    {
+        "artikelnummer": "010",
+        "bezeichnung": "Kleid",
+        "farbe": "Rosa",
+        "preis": 49.99,
+        "bestand": 22
+    },
+    {
+        "artikelnummer": "011",
+        "bezeichnung": "Mütze",
+        "farbe": "Blau",
+        "preis": 9.99,
+        "bestand": 75
+    },
+    {
+        "artikelnummer": "012",
+        "bezeichnung": "Schal",
+        "farbe": "Rot",
+        "preis": 14.95,
+        "bestand": 60
+    },
+    {
+        "artikelnummer": "013",
+        "bezeichnung": "Handtasche",
+        "farbe": "Schwarz",
+        "preis": 29.99,
+        "bestand": 30
+    },
+    {
+        "artikelnummer": "014",
+        "bezeichnung": "Sonnenbrille",
+        "farbe": "Gold",
+        "preis": 12.99,
+        "bestand": 50
+    },
+    {
+        "artikelnummer": "015",
+        "bezeichnung": "Gürtel",
+        "farbe": "Braun",
+        "preis": 7.95,
+        "bestand": 80
+    }
+]
+}
