@@ -1,48 +1,61 @@
-################################################################################################################################################
-#                                                                                                                                              #
-#   Autor: Dr. A. Schelle (alexej.schelle.ext@iu.org). Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt    #
-#                                                                                                                                              #
-################################################################################################################################################
+# Bearbeitet durch Eric Böwer
 
-# PYTHON ROUTINE zu Aufgabe 5.5 - Algorithmen, Datenstrukturen und Programmiersprachen #
+import numpy as np
 
-import os
-import sys
-import math
-import numpy
-import random
 
-N = 1000
-K = 100
+def generateAssetMatrix():
+    m = n = 1000
+    return np.random.uniform(0, 100000, size=(m, n))  # generate M with m = n = 1000
 
-# Definiere Elemente der Blockchain:
 
-B = ['']
-M = [[[0.0]*N]*N]*K  # Blocks
-A = [0.0]*K # Assets
+def generateBlock(transactions):
+    block = {
+        "Transactions": transactions.copy(),
+        "HashKey": np.random.randint(0, int(1e10))
+    }
+    return block
 
-T = [0.0]*K # Transaktionen
-H = [0.0]*K # Hash-Keys
 
-for k in range(0,K): # Modelliere die Blöcke und Assets der Blockchain
+def findMinMaxAssets(chain):
+    minAsset = float("inf")
+    maxAsset = float("-inf")
 
-    for i in range(0,N):
+    for block in chain:
+        for T in block["Transactions"]:
+            A = T["Assets"]
+            assetValueMax = np.max(A)
+            assetValueMin = np.min(A)
 
-        for j in range(0,N):
+            if assetValueMin < minAsset:
+                minAsset = assetValueMin
 
-            M[k][i][j] = random.uniform(0.0,100000.0)
-                
-            if (i == j): A[k] = M[k][i][j]
+            if assetValueMax > maxAsset:
+                maxAsset = assetValueMax
 
-for l in range(0,K): # Simuliere K zufällige Transaktionen
+    return minAsset, maxAsset
 
-    k = random.randint(0,K-1) # Zufälliger Wert der Transaktion    
-    T[l] = A[k]
 
-    B.append(M[k]) # Generate Blockchain - Block
-    B.append(T[l]) # Generate Blockchain - Asset
+def simulate():
+    blockChain = []
+    numTransactions = 100
+    assetsPerTransaction = 2
 
-    H[l] = random.randint(0,1E10) # Generiere Hash-Key
+    for i in range(numTransactions):
+        T = []
+        for _ in range(assetsPerTransaction):
+            A = generateAssetMatrix()
+            T.append({"Assets": A})
 
-print('Maximal Asset: ', max(T), 'at Index Nr. ', A.index(max(T)), 'with Hash Key: ', H[T.index(max(T))], ' and Blockchain Transaction Value', T[T.index(max(T))])
-print('Minimal Asset: ', min(T), 'at Index Nr. ', A.index(min(T)), 'with Hash Key: ', H[T.index(min(T))], ' and Blockchain Transaction Value', T[T.index(min(T))])
+        block = generateBlock(T)
+        blockChain.append(block)
+
+    minAsset, maxAsset = findMinMaxAssets(blockChain)
+
+    print("Smallest Asset: ")
+    print('{:20.20f}'.format(minAsset))
+    print("\nLargest Asset: ")
+    print('{:20.20f}'.format(maxAsset))
+
+
+if __name__ == "__main__":
+    simulate()
