@@ -15,7 +15,7 @@ Python and Jupyter Files for Lecturers of the IU-Course on "Algorithmen, Datenst
 	
 *********************************************************************************************************************
 											    	       	
-	Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
+Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
 										    	       	
 *********************************************************************************************************************
 
