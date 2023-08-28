@@ -11,24 +11,24 @@ Person responsible: Dr. A. Schelle (IU Internationale Hochschule, http://www.iu.
 
 *********************************************************************************************************************
 
-  Python and Jupyter Files for Lecturers of the IU-Course on "Algorithmen, Datenstrukturen und Programmiersprachen" 
+Python and Jupyter Files for Lecturers of the IU-Course on "Algorithmen, Datenstrukturen und Programmiersprachen" 
 	
 *********************************************************************************************************************
-										    	       	
-		Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
+											    	       	
+	Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
 										    	       	
 *********************************************************************************************************************
 
-	Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python :
+	Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python
 
 *********************************************************************************************************************
 
 	1.1 - 1.4 : Vorbereitung und Installation
-  	1.5 : Primzahlentest
+	1.5 : Primzahlentest
 
 *********************************************************************************************************************
 
-	Graphentheorie und Zufallszahlen in Python :
+	Graphentheorie und Zufallszahlen in Python
 
 *********************************************************************************************************************
 
@@ -40,7 +40,7 @@ Person responsible: Dr. A. Schelle (IU Internationale Hochschule, http://www.iu.
  
 *********************************************************************************************************************
 
-	Numerische Algorithmen in Python :
+	Numerische Algorithmen in Python
 
 *********************************************************************************************************************
 
