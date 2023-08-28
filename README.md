@@ -15,20 +15,20 @@ Person responsible: Dr. A. Schelle (IU Internationale Hochschule, http://www.iu.
 	
 *********************************************************************************************************************
 										    	       	
- 	Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
+		Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
 										    	       	
 *********************************************************************************************************************
 
-  Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python :
+	Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python :
 
 *********************************************************************************************************************
 
 	1.1 - 1.4 : Vorbereitung und Installation
-  1.5 : Primzahlentest
+  	1.5 : Primzahlentest
 
 *********************************************************************************************************************
 
-  Graphentheorie und Zufallszahlen in Python :
+	Graphentheorie und Zufallszahlen in Python :
 
 *********************************************************************************************************************
 
@@ -40,7 +40,7 @@ Person responsible: Dr. A. Schelle (IU Internationale Hochschule, http://www.iu.
  
 *********************************************************************************************************************
 
-  Numerische Algorithmen in Python :
+	Numerische Algorithmen in Python :
 
 *********************************************************************************************************************
 
@@ -48,40 +48,35 @@ Person responsible: Dr. A. Schelle (IU Internationale Hochschule, http://www.iu.
 	3.2 : Berechnung der Kreiszahl Pi bis zur Zehnten Stelle hinter dem Komma  
 	3.3 : Berechnung der Kreiszahl Pi mit parallelem Algorithmus bis zur Zwölften Stelle hinter dem Komma        
 	3.4 : Berechnung der Wahrscheinlichkeiten nach der Monty-Hall Strategie 
-  3.5 : Berechnung der Gewinne in Prozent in einer 6 aus 49 Lotterie 
+  	3.5 : Berechnung der Gewinne in Prozent in einer 6 aus 49 Lotterie 
  
 *********************************************************************************************************************
 
- in Python :
+	Stringanalyse und Verschlüsselung in Python :
 
 *********************************************************************************************************************
 
-	3.1 :        
-	3.2 :  
-	3.3 :       
-	3.4 : 
-  3.5 : 
+	4.1 : Berechnung von Fibonacci-Zahlen und Primzahlen         
+	4.2 : Bewertung von Strings nach Buchstabenfolgen 
+	4.3 : Berechnung der Shannonentropie für einen String       
+	4.4 : Wortsuche in einem vorgegebenen String
+  	4.5 : Verschlüsselung von Strings und Zeichen
 
 *********************************************************************************************************************
 
- in Python :
+	Datenstrukturen in Python in Python :
 
 *********************************************************************************************************************
 
-	3.1 :        
-	3.2 :  
-	3.3 :       
-	3.4 : 
-  3.5 : 	
+	5.1 : Definition der Grundstruktur eines XML-Dokuments        
+	5.2 : Definition der Grundstruktur eines JSON-Dokuments 
+	5.3 : Definition der Grundstruktur eines JSON-Dokuments für Webseiten-SEO       
+	5.4 : Berechnung der statistischen Verteilung einer Pfadlänge in einem ungerichteten Graphen
+  	5.5 : Modellierung eines Grundschemas einer Blockchain 	
 
 *********************************************************************************************************************
 
-	The same for Jupyter files, which are labeled with notebook_example_a_x.ipynb (where a = 1...5, and x variable).
-
-	Password for zip-files associated to the lecture series "Introduction to Data Science" can be received 
-	(only for IU members and associates) at alexej.schelle.ext@iu.org.
-
-	References to AI methods and standards can be found with the different Python files.
+	Person responsible: Dr. Alexej Schelle.
 
 *********************************************************************************************************************
 
