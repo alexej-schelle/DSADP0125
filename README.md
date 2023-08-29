@@ -8,11 +8,6 @@ Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server 
 
 Person responsible: Dr. A. Schelle (IU Internationale Hochschule, http://www.iu.org).
 
-
-*********************************************************************************************************************
-
-Python and Jupyter Files for Lecturers of the IU-Course on "Algorithmen, Datenstrukturen und Programmiersprachen" 
-	
 *********************************************************************************************************************
 											    	       	
 Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
@@ -79,4 +74,3 @@ Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erf
 	Person responsible: Dr. Alexej Schelle.
 
 *********************************************************************************************************************
-
