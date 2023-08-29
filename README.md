@@ -12,7 +12,7 @@ Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server 
 										    	       	
 *********************************************************************************************************************
 
-	Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python
+	Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python :
 
 *********************************************************************************************************************
 
@@ -21,7 +21,7 @@ Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server 
 
 *********************************************************************************************************************
 
-	Graphentheorie und Zufallszahlen in Python
+	Graphentheorie und Zufallszahlen in Python :
 
 *********************************************************************************************************************
 
@@ -33,7 +33,7 @@ Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server 
  
 *********************************************************************************************************************
 
-	Numerische Algorithmen in Python
+	Numerische Algorithmen in Python :
 
 *********************************************************************************************************************
 
