@@ -8,7 +8,7 @@ Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server 
 
 *********************************************************************************************************************
 											    	       	
-Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
+	Copyright: IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
 										    	       	
 *********************************************************************************************************************
 
