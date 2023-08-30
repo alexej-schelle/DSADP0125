@@ -57,7 +57,7 @@ Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server 
 
 *********************************************************************************************************************
 
-	Datenstrukturen in Python in Python :
+	Datenstrukturen in Python :
 
 *********************************************************************************************************************
 
