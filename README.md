@@ -7,10 +7,6 @@ In Deiner Fortbildung befasst Du Dich mit Datenstrukturen, dem Algorithmenentwur
 Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server (2023).
 
 *********************************************************************************************************************
-											    	       	
-		IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
-										    	       	
-*********************************************************************************************************************
 
 	Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python :
 
