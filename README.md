@@ -8,7 +8,7 @@ Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server 
 
 *********************************************************************************************************************
 
-	Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python :
+	Übungen zu den Grundlagen der Algorithmen, Datenstrukturen und Programmiersprachen in Python :
 
 *********************************************************************************************************************
 
@@ -66,5 +66,8 @@ Mehr Informationen und Source Codes zu den Übungen auf Deinem IU-Shared-Server 
 *********************************************************************************************************************
 
 	Person responsible: Dr. A. Schelle (IU Internationale Hochschule, http://www.iu.org).
+
+	Password for zip-files associated to the lecture series "Algorithmen, Datenstrukutren und 
+ 	Programmiersprachen" can be received (only for IU members and associates) at alexej.schelle.ext@iu.org.
 
 *********************************************************************************************************************
